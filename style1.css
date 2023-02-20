@@ -1,0 +1,56 @@
+body {
+background-color: whitesmoke;
+font-family:'Outfit' ;
+}
+header {
+background-color: dodgerblue;
+position: relative;
+opacity: 40% ;
+}
+footer {
+background-color: dodgerblue;
+position: relative;
+opacity: 40% ;
+font-size: 2rem;
+font-weight: bold;
+color: dodgerblue;
+margin: 1% 2%;
+}
+.travel{
+  font-size: 2rem;
+  font-weight: bold;
+  color: dodgerblue;
+  margin: 1% 2%;
+}
+.favourite{
+    font-size: 1.5rem;
+    font-weight:bold;
+    color: dodgerblue;
+    margin: 1% 2%;
+}
+img{
+    height: 500px;
+    width: 1000px;
+}
+iframe{
+    height: 500px;
+    width: 1000px;
+}
+.Amal{
+    margin-top: 1.2rem;
+    margin-bottom: 1.2rem;
+}
+#boudagga{
+    background-color:grey;
+    color: black;
+    padding: 1% 2%;
+    border-radius: 3px;
+    border: none;
+}
+#boudagga:hover{
+    background-color: green;
+    color: white;
+}
+section{
+    margin:2rem;
+}
