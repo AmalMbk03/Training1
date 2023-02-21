@@ -1,19 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
 body {
 background-color: whitesmoke;
 font-family:'Outfit' ;
 }
 header {
-background-color: dodgerblue;
+background-color: rgb(30, 144, 255,0.3);
 position: relative;
-opacity: 40% ;
+padding: 3rem;
+color: darkcyan !important;
 }
 footer {
-background-color: dodgerblue;
+background-color: rgb(30, 144, 255, 0.3);
 position: relative;
-opacity: 40% ;
+padding: 3rem;
 font-size: 2rem;
 font-weight: bold;
-color: dodgerblue;
+color: darkcyan !important;
 margin: 1% 2%;
 }
 .travel{
@@ -29,16 +32,18 @@ margin: 1% 2%;
     margin: 1% 2%;
 }
 img{
-    height: 500px;
-    width: 1000px;
+    height: 250px;
+    width: 500px;
+    display: block;
 }
 iframe{
-    height: 500px;
-    width: 1000px;
+    height: 250px;
+    width: 500px;
 }
 .Amal{
     margin-top: 1.2rem;
     margin-bottom: 1.2rem;
+    display: block;
 }
 #boudagga{
     background-color:grey;
@@ -53,4 +58,15 @@ iframe{
 }
 section{
     margin:2rem;
+    display: block;
+}
+em{
+    display: block;
+}
+a{
+    display: block;
+}
+
+ol{
+    list-style-type: none;
 }
