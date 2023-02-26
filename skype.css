@@ -1,0 +1,36 @@
+.navbar{
+    background-color: white !important;
+    color: black !important;
+    height: 20%;
+    position: relative;
+    align-items: center;
+}
+.Microsoft-logo{
+    width: 108px;
+}
+.Skype-logo{
+    color: #0078CA;
+    width: 20px;
+    font-size: 20px;
+    line-height: 1;
+}
+.User-logo{
+    width: 37px;
+}
+.nav-link{
+    color: black !important;
+}
+.nav-item:hover{
+    text-decoration: underline;
+}
+.Amal{
+    align-items: center;
+}
+.Vl{
+    border-left: 2px solid black;
+    height: 30px;
+    margin-right: 1%;
+}
+.active{
+    font-weight: bolder !important;
+}
