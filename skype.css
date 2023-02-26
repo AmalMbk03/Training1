@@ -1,7 +1,7 @@
 .navbar{
     background-color: white !important;
     color: black !important;
-    height: 20%;
+    height: 15vh;
     position: relative;
     align-items: center;
 }
@@ -33,4 +33,72 @@
 }
 .active{
     font-weight: bolder !important;
+}
+.Bdg{
+    background-color: rgb(241, 232, 232);
+    height: 85vh;
+}
+.Maa{
+    padding: 12%;
+}
+.Paa{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.Bro{
+    font-size: 1.1rem;
+}
+.Sis{
+    background-color: dodgerblue;
+    color: white;
+    padding: 2% 5%;
+    border: none;
+    border-radius: 20px;
+    margin-bottom: 20px !important;
+}
+.Grand{
+    margin-top: 20px !important;
+    color: dodgerblue !important;
+}
+.Grand:hover{
+    color:black !important;
+    margin-top: 20px !important;
+    cursor: pointer;
+}   
+.Soeur{
+    color: dodgerblue !important;
+}
+.Soeur:hover{
+    color: black !important;
+    cursor: pointer;
+}
+
+.Frére {
+    background: linear-gradient(to right, dodgerblue, purple);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+
+.Papi{
+    background-color:rgb(218, 213, 213); 
+    height: 60vh;
+    position: relative;
+    padding: 3%;
+    justify-content: space-between !important;
+  }
+
+.web{
+    list-style-type: none;
+}
+.Mutter{
+    margin-bottom: 15%;
+}
+.Son{
+    font-weight: bold;
+}
+.Mutter:hover{
+    text-decoration: underline;
+    cursor: pointer;
 }
